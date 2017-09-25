@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "What Yuan Artwork Can Teach Us About DPLA's Collections"
-date: 2017-09-14
+date: 2017-09-24
 ---
-<img src="https://dp.la/assets/dpla-logo-3c3d47ca21e77d56645489606c391691.png">
+<img src="https://dp.la/assets/dpla-logo-3c3d47ca21e77d56645489606c391691.png" border="1px">
 
 
 Browsing the Digital Public Library of America (DPLA) website with expectations fueled by statistics about the magnitude of its collections (17 million items contributed by 1,200 contributing institutions in the United States) complicated the process of selecting a subset of images to investigate further. Overly optimistic about the database’s holdings, I searched for various types of content that I was interested and was disappointed to find few results. While it is understandable that the database has its limitations, it shows the need for further expansion before it can be considered a comprehensive source. For the time being, users like me are constrained by what DPLA and its contributing institutions consider worthy of sharing.
