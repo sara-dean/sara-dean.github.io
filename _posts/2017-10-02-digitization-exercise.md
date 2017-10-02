@@ -82,4 +82,6 @@ on DPLA. so I reasoned that there might also be a scarcity in digitized print ab
 Public Library that was written by a member of the Connecticut Valley Historical Society about Native Americans in 1991. From what I have been able to 
 determine, the piece has never before been digitized. It is called <i>Minnetona; Or, The Indian Gift</i> and a digitized version of the first part of the piece can be found <a href="https://sara-dean.github.io/Minnetona.txt">here</a>.
 
+The OCR process rendered the text more or less correctly; perhaps this is because the original text uses a standard typeface and simple formatting. Most reoccurring errors consisted of extra spaces or line breaks, which likely has to do with the fact that <i>Minnetona</i> is a poem. Occasionally, errors in spelling consisted of a single chracter being mistaken for another (e.g. substituting "II" for H), but the raw txt file was mostly accurate and legible.
+
 Shurtleff, William S. <i>Minnetona; Or, The Indian Gift: A Historical Poem, Delivered Before the Connecticut Valley Historical Society, at Springfield, Mass., June 6, 1881</i>. Springfield: Press of the Springfield Printing Company, 1881.
