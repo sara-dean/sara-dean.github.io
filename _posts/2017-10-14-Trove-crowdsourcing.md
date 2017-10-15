@@ -9,7 +9,9 @@ The problem with OCR is that it is not always reliable or accurate. In order to 
 
 The National Library of Australia (NLA) has attempted to deal with this issue through crowdsourcing. Through its online repository, Trove, NLA encourages users to supply the time and labor needed to check OCR outputs on digitized newspapers from the 1800s to the present. A quick glance through these newspapers demonstrates the need for this program; some OCR outputs, like the one for an article called "Aboriginal Languages" in the 27 August 1918 edition of the Brisbane Courier, are mostly unintelligible. 
 
-<img src="https://preview.ibb.co/nR0UYw/Untitled_1.png">
+<img src="https://preview.ibb.co/iowmDw/Trove01.png">
+
+Trove's OCR correction interface with the unaltered text of "Aboriginal Languages."
 
 Trove invites all of the help it can get in this endeavor. There is a page of guidelines for participants, but not much restricting their actions. They may register an account or work anonymously; change, add, or delete text as they wish; make private or public comments; create tags for the articles; and more.
 
