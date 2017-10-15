@@ -30,4 +30,6 @@ Users who wish to save the sources have several options: They can print as image
 
 Technology and funding permitting, the program could be improved in the future by implementing measures to ensure that users follow the standards outlined in the guidelines. At the moment, they act only as suggestions. Since the purpose of having users correct OCR outputs is quality control, there should be some measure in place to perform quality control on the users' work.
 
+I would be willing to participate in the crowdsourcing effort more in the future, and I would be interested to see if Trove makes any changes or improvements to the program.
+
 "Aboriginal Languages." The Brisbane Courier (Qld. : 1864 - 1933) 27 August 1918: 6. Web. 14 Oct 2017. <http://nla.gov.au/nla.news-article20269376>.
