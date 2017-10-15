@@ -18,9 +18,9 @@ Trove invites all of the help it can get in this endeavor. There is a page of gu
 
 Although the OCR output for "Aboriginal Languages" was illegible, the image scan of the newspaper was fairly clear, and I had little difficulty in reading it in order to make my corrections. However, the OCR was so inaccurate that I found it more practical to rewrite entire sentences from scratch. I found the interface for text correction to be quite user-friendly, and I was able to jump right into the process.
 
-A sentence from the original OCR output of "Aboriginal Language": "Ali P Bonnett B-«. icad n jnpet on The \ocahiiaiy nf tin Aft nut «¡pincel Phil«« it a meeting of the Rojal Ninety it the Uiivei-itv i i=t cv«nin¿"
+<b>A sentence from the original OCR output of "Aboriginal Language"</b>: "Ali P Bonnett B-«. icad n jnpet on The \ocahiiaiy nf tin Aft nut «¡pincel Phil«« it a meeting of the Rojal Ninety it the Uiivei-itv i i=t cv«nin¿"
 
-My correction, based on my own reading of the article scan: "Mr. F. Bennett B.Sc., read a paper on "The Vocabulary of the Mount Spencer Blacks" at a meeting of the Royal Society at the University last evening."
+<b>My correction, based on my own reading of the article scan</b>: "Mr. F. Bennett B.Sc., read a paper on "The Vocabulary of the Mount Spencer Blacks" at a meeting of the Royal Society at the University last evening."
 
 When the article comes up in a search, it now reads: "Text last corrected on 15 October 2017 by *anon*[NLA]." The article can be found <a href="http://nla.gov.au/nla.news-article20269376">here</a>. 
 
@@ -30,4 +30,4 @@ Users who wish to save the sources have several options: They can print as image
 
 Technology and funding permitting, the program could be improved in the future by implementing measures to ensure that users follow the standards outlined in the guidelines. At the moment, they act only as suggestions. Since the purpose of having users correct OCR outputs is quality control, there should be some measure in place to perform quality control on the users' work.
 
-
+"Aboriginal Languages." The Brisbane Courier (Qld. : 1864 - 1933) 27 August 1918: 6. Web. 14 Oct 2017. <http://nla.gov.au/nla.news-article20269376>.
