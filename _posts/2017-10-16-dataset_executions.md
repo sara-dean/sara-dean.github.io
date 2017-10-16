@@ -47,7 +47,7 @@ One of the more intriguing discrepancies I saw when sorting the data by numeric 
 
 <div id="images">
         <img src="https://image.ibb.co/mTxn5m/revolt.png">
-        <div class="caption">A chart and bar graph generated through ICPSR's crosstab/frequency interface.</div>
+        <div class="caption">A table and bar graph generated through ICPSR's crosstab/frequency interface.</div>
    </div>
 
 In accordance with an organized event like a slave revolt, several individuals were executed for this crime in the same place and at the same time. In 1741, four white people were executed in New York for participating in a slave revolt--their occupations are listed as a bar owner, a housewife (presumably the bar owner's wife, as they share a last name), a bar maid, and a priest. In contrast, twenty white people were executed in 1712, all of whom are listed as "slave" under their occupation. It is interesting to note the difference between white slaves in revolt versus free whites aiding slaves in revolt, in the same state, and mere decades apart. This raises questions that I would like to investigate further, such as when the practice of keeping white people as indentured servants died out and what slavery was like in New York (I know it was one of the last northern states to ban it); it would also be interesting to look into local slave revolts as opposed to those which have been highly publicized (e.g. Nat Turner's rebellion).
