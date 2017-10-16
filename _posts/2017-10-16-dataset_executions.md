@@ -44,6 +44,7 @@ One of the more intriguing discrepancies I saw when sorting the data by numeric 
   </tr>
 </table>
 
+
 <div id="images">
         <img src="https://image.ibb.co/mTxn5m/revolt.png">
         <div class="caption">A chart and bar graph generated through ICPSR's crosstab/frequency interface.</div>
