@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Ethics of Technological Progress
+date: 2017-10-23
+---
 As witnesses to, and sometimes participants in, the great strides made in computer science today, we find ourselves faced with questions. Sometimes, the question of "What new and inventive things can we do with technology?" raises another, more complicated question: "What are the ethical ramifications?" 
 
 One complaint that I have with the field of tech is the lackadaisical attitude that some of its pioneers take when it comes to ethical questions. More and more these days I see pushback against people who have these concerns. They are accused of being old-fashioned, asked to change their very conception of what is ethical, told that the ends (big data) justify the means (violations of privacy), and so on. <a href="https://www.huffingtonpost.com/2010/04/29/zuckerberg-privacy-stance_n_556679.html">Consider the controversy that came out of Mark Zuckerberg's supposedly cavalier attitude about Facebook users' privacy.</a>
