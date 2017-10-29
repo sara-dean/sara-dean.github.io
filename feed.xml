@@ -47,5 +47,11 @@
     <pubdate>Mon, 23 Oct 2017 12:26:34 EST</pubdate>
     <description>A response to this week's readings on computer science projects, and their ethical ramifications.</description>
 </item>
+  <item>
+    <title>Colorizing the George Grantham Bain Collection</title>
+      <link>https://sara-dean.github.io/2017/10/29/bain-colorization.html</link>
+    <pubdate>Sun, 29 Oct 2017 13:55:27 EST</pubdate>
+    <description>An attempt to colorize selected photographs from the Library of Congress's George Grantham Bain collection.</description>
+  </item>
   </channel>
 </rss>
