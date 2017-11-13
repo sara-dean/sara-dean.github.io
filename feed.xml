@@ -53,5 +53,11 @@
     <pubdate>Sun, 29 Oct 2017 13:55:27 EST</pubdate>
     <description>An attempt to colorize selected photographs from the Library of Congress's George Grantham Bain collection.</description>
   </item>
-  </channel>
+    <item>
+    <title>Core Questions in Project Planning</title>
+    <link>https://sara-dean.github.io/2017/11/13/project-core-questions.html</link>
+    <pubdate>Mon, 13 Nov 2017 12:27:47 EST</pubdate>
+    <description>A discussion of articles by Wyman et al. and Leon, and how they relate to the planning of a public history or digital history project.</description>
+  </item>
+    </channel>
 </rss>
